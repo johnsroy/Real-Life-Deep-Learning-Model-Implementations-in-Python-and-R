@@ -3,7 +3,7 @@ This massive code base will help developers interested in Machine Learning and D
 hands-on development experience in AI.
 Most of the models have been implemented in both Python and R.
 This covers both supervised and unsupervised machine learning. I have shared the datasets as well.
-Keras, Tensorflow, Pytorch, and various other industry-standard deep learning packages have been used.
+Keras, Tensorflow, PyTorch, and various other industry-standard deep learning packages have been used.
 Almost 30 models have been built which include:
 1. Simple Linear Regression
 2. Multiple Linear Regression
