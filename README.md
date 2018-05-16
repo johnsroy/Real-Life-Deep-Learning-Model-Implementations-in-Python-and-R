@@ -1,5 +1,5 @@
 # Real-Life-Deep-Learning-Model-Implementations-in-Python-and-R
-This massive code base will help developers interested in Machine Learning and Deep Learning gain a more practical
+This is how I overcame my daily Machine Learning and Deep Learning challenges and gathered a practical
 hands-on development experience in AI.
 Most of the models have been implemented in both Python and R.
 This covers both supervised and unsupervised machine learning. I have shared the datasets as well.
